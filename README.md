@@ -2,7 +2,6 @@
 
 A high-conversion, minimalist landing page for AI startups. Built with the cutting-edge stack of 2026: **Next.js 16** and **Tailwind CSS 4**.
 
-![Project Preview]
 <img width="1250" height="790" alt="premium-whitelist" src="https://github.com/user-attachments/assets/3a888ea6-19bb-4dfb-9c8a-7e20f848f421" />
 
 ## ✨ Why this template?

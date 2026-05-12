@@ -1,7 +1,7 @@
 # 🚀 Silicon Valley Premium AI Waitlist Template
 
-> 🎁 **LAUNCH SPECIAL:** Get the full source code for just **$9.50** (50% OFF) using code **NOCTURNE** at checkout. 
-> **[Claim your discount on Gumroad →](https://nocturne803.gumroad.com/l/premium-ai-waitlist/NOCTURNE)**
+> 🎁 **LIMITED LAUNCH OFFER:** The first **20 developers** get 50% OFF using code **NOCTURNE**. 
+> **[Get it for $9.50 before the price doubles! →](https://nocturne803.gumroad.com/l/premium-ai-waitlist/NOCTURNE)**
 
 A high-conversion, minimalist landing page for AI startups. Built with the cutting-edge stack of 2026: **Next.js 16** and **Tailwind CSS 4**.
 
